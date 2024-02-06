@@ -9,5 +9,5 @@
 9.	-called commit-
 10.	What is the command to send your changed files to Github?
 11.	$ git commit-m”add existing file”#
-What is the command to take a snapshot of your changed files?
-Git commit command
+12. What is the command to take a snapshot of your changed files?
+13. Git commit command
